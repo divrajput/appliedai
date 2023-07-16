@@ -1,0 +1,195 @@
+# Ignoring all kinds of file formats in the folder and subfolders
+*.csv
+*.xlsx
+*.pkl
+*.h5
+*.hdf5
+*.txt
+*.zip
+*.rar
+*.tif
+*.json
+*.xml
+*.iml
+*.pdf
+
+# Ignoring specific files
+/assignment_3/cleaned_strings
+/assignment_6/glove_vectors
+/doc_classification_cnn/documents_zip.zip
+/doc_classification_cnn/documents.rar
+/assignment_2/haberman.csv
+/assignment_3/cleaned_string.csv
+/assignment_5/5_a.csv
+/assignment_5/5_a.xlsx
+/assignment_5/5_b.csv
+/assignment_5/5_c.csv
+/assignment_5/5_d.csv
+/assignment_6/preprocessed_data.csv
+/assignment_6/resources.csv
+/assignment_6/train_data.csv
+/back_prop_gradient_checking/data.pkl
+/callbacks/data.csv
+/cnn_cifr/DNST_bettleneck.h5
+/cnn_cifr/DNST_model.h5
+/cnn_cifr/DNST_res_model.h5
+/cnn_cifr/DNST_without_bc_with_augmentation.h5
+/doc_classification_cnn/glove.6B.100d.txt
+/doc_classification_cnn/glove.6B.50d.txt
+/doc_classification_cnn/glove.840B.300d-char.txt
+/segmentation/best_CANet_model.h5
+/segmentation/best_CANet_model_test.h5
+/segmentation/best_unet_model.h5
+/segmentation/data.zip
+/segmentation/preprocessed_data.csv
+/transfer_learning/.idea/.gitignore
+/transfer_learning/.idea/inspectionProfiles/Project_Default.xml
+/transfer_learning/.idea/inspectionProfiles/profiles_settings.xml
+/transfer_learning/.idea/misc.xml
+/transfer_learning/.idea/modules.xml
+/transfer_learning/.idea/transfer_learning.iml
+/transfer_learning/aaic-assignment-tl/labels_final.csv
+/transfer_learning/kaggle.json
+/transfer_learning/labels_final.csv
+/transfer_learning/labels_final.csv.zip
+/transfer_learning/natural-images.zip
+
+# Ignoring directories
+/Autopilot-TensorFlow-master/
+/callbacks/logs/
+/callbacks/model_save/
+/doc_classification_cnn/documents/
+/doc_classification_cnn/logs/
+/final_self_driving_car/
+/segmentation/data/
+/segmentation/my_model/
+/transfer_learning/aaic-assignment-tl/data_final/
+/image_segmentation-master/
+
+
+
+
+
+
+
+
+
+# # Ignoring all kinds of file formats in the folder and subfolders
+# *.csv
+# *.xlsx
+# *.pkl
+# *.h5
+# *.hdf5
+# *.txt
+# *.zip
+# *.rar
+# *.tif
+# *.json
+# *.xml
+# *.iml
+
+# # Ignoring specific files
+# /assignment_3/cleaned_strings
+# /assignment_6/glove_vectors
+# /doc_classification_cnn/documents_zip.zip
+# /doc_classification_cnn/documents.rar
+# /assignment_2/haberman.csv
+# /assignment_3/cleaned_string.csv
+# /assignment_5/5_a.csv
+# /assignment_5/5_a.xlsx
+# /assignment_5/5_b.csv
+# /assignment_5/5_c.csv
+# /assignment_5/5_d.csv
+# /assignment_6/preprocessed_data.csv
+# /assignment_6/resources.csv
+# /assignment_6/train_data.csv
+# /back_prop_gradient_checking/data.pkl
+# /callbacks/data.csv
+# /cnn_cifr/DNST_bettleneck.h5
+# /cnn_cifr/DNST_model.h5
+# /cnn_cifr/DNST_res_model.h5
+# /cnn_cifr/DNST_without_bc_with_augmentation.h5
+# /doc_classification_cnn/glove.6B.100d.txt
+# /doc_classification_cnn/glove.6B.50d.txt
+# /doc_classification_cnn/glove.840B.300d-char.txt
+# /segmentation/best_CANet_model.h5
+# /segmentation/best_CANet_model_test.h5
+# /segmentation/best_unet_model.h5
+# /segmentation/data.zip
+# /segmentation/preprocessed_data.csv
+# /transfer_learning/.idea/.gitignore
+# /transfer_learning/.idea/inspectionProfiles/Project_Default.xml
+# /transfer_learning/.idea/inspectionProfiles/profiles_settings.xml
+# /transfer_learning/.idea/misc.xml
+# /transfer_learning/.idea/modules.xml
+# /transfer_learning/.idea/transfer_learning.iml
+# /transfer_learning/aaic-assignment-tl/labels_final.csv
+# /transfer_learning/kaggle.json
+# /transfer_learning/labels_final.csv
+# /transfer_learning/labels_final.csv.zip
+# /transfer_learning/natural-images.zip
+
+
+# # Ignoring directories
+# /Autopilot-TensorFlow-master/
+# /callbacks/logs/
+# /callbacks/model_save/
+# /doc_classification_cnn/documents/
+# /doc_classification_cnn/logs/
+# /final_self_driving_car/
+# /segmentation/data/
+# /segmentation/my_model/
+# /transfer_learning/aaic-assignment-tl/data_final/
+# /image_segmentation-master/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# #Ignoring all lind of file format in folder and subfolders
+# /*.csv
+
+# /*.xlsx
+
+# /*.pkl
+
+# /*.h5
+
+# /*.hdf5
+
+# /*.txt
+
+# /*.zip
+
+# /*.rar
+
+# /*.tif
+
+# /*.json
+
+# #Ignoring files
+# /assignment_3/cleaned_strings
+# /assignment_6/glove_vectors
+# doc_classification_cnn/documents_zip.zip
+# doc_classification_cnn/documents.rar
+
+# #Ignoring directory
+# /Autopilot-TensorFlow-master/
+# /callbacks/logs/
+# callbacks/model_save/
+# doc_classification_cnn/documents/
+# doc_classification_cnn/logs/
+# final_self_driving_car/
+# segmentation/data/
+# segmentation/my_model/
+# transfer_learning/aaic-assignment-tl/data_final/
+
